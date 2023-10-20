@@ -66,3 +66,11 @@ mysql> select EmpID,EmpDept from Employee;
 
 
 
+
+-- if Want Delete Table from database for command is 
+
+drop table Employee;
+
+select* from Employee;
+EmptySet()
+
