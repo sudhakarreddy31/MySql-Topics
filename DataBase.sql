@@ -16,3 +16,20 @@ mysql> show databases;
 
 use TestDB;
 
+If Want Delete Database ,the command
+
+drop database TestDB
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+                |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+
+
+
+
